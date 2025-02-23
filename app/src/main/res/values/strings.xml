@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Retrofit and picture loading</string>
+    <string name="app_name">Random users</string>
     <string name="user_photo_description">User photo</string>
     <string name="loading_failed">Loading failed</string>
     <string name="loading">Data is loading</string>
